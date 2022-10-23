@@ -27,7 +27,6 @@
 4. Εξοικείωση με την πλατφόρμα GitHub για την καλύτερη παρουσίαση των ήδη υπάρχων και μελλοντικών εργασιών μου
 
 Όλοι αυτοί οι στόχοι είναι η αρχή από την οποία θα ξεκινήσει η πορεία μου για Privacy-Focused Software Developer
-**Η αναφορά μου**: [click](https://github.com/maxiikk/hci/blob/2021221/projects/2021221/README.md)
 
 > In Cryptography We Trust
 
@@ -39,6 +38,5 @@
 [Windows 3.2 (chinese version)](https://flourishing-marshmallow-672181.netlify.app/gallery/win3.2/)
 [Norton Desktop 1.0 for DOS](https://flourishing-marshmallow-672181.netlify.app/gallery/norton-desktop-1.0-for-dos/)
 
-[Η αναφορά μου](https://github.com/maxiikk/hci/blob/2021221/projects/2021221/README.md)
 
 
